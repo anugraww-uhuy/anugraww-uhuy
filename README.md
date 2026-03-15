@@ -12,10 +12,10 @@
 
 <!-- Social media badges -->
 <p align="center">
-  <a href="https://instagram.com/yourusername">
+  <a href="https://instagram.com/anugraww_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://tiktok.com/@yourusername">
+  <a href="https://tiktok.com/@anugraww_">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" />
   </a>
 </p>
@@ -60,24 +60,24 @@ I'm a 17-year-old developer with 2 years of experience in web and application de
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anugraww-uhuy&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="anugraww-uhuy" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anugraww-uhuy&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 📫 Let's Connect!
 
-- 📧 Email: adi.putra@example.com (ganti dengan email asli)
-- 📷 Instagram: [@yourusername](https://instagram.com/yourusername)
-- 🎵 TikTok: [@yourusername](https://tiktok.com/@yourusername)
+- 📧 Email: anugraww8@gmail.com
+- 📷 Instagram: [@anugraww_](https://instagram.com/anugraww_)
+- 🎵 TikTok: [@anugraww_](https://tiktok.com/@anugraww_)
 
 ---
 
@@ -86,5 +86,5 @@ I'm a 17-year-old developer with 2 years of experience in web and application de
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=anugraww-uhuy&color=blueviolet" alt="Profile views" />
 </p>
