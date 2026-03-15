@@ -64,7 +64,7 @@ I'm a 17-year-old developer with 2 years of experience in web and application de
 </p>
 
 <p align="center">
-  <img src="anugraww-uhuy" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anugraww-uhuy&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
