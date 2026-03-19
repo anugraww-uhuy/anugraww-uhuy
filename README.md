@@ -1,6 +1,6 @@
 <!-- Banner welcome -->
 <h1 align="center">Ga ada hasil tanpa Usaha</h1>
-<h3 align="center">Koding dulu aja, Bisa nya nanti hehe</h3>
+<h3 align="center">Koding aja dulu, Bisa nya nanti hehe</h3>
 
 <!-- About section with cool badges -->
 <p align="center">
