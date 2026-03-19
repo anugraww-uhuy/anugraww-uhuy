@@ -1,6 +1,6 @@
 <!-- Banner welcome -->
-<h1 align="center">Hi there 👋, I'm Adi Putra Anugrah</h1>
-<h3 align="center">A passionate Web & App Developer from Indonesia</h3>
+<h1 align="center">Ga ada hasil tanpa Usaha</h1>
+<h3 align="center">Koding dulu aja, Bisa nya nanti hehe</h3>
 
 <!-- About section with cool badges -->
 <p align="center">
